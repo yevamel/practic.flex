@@ -1,0 +1,24 @@
+body {
+    font-family: 'Monteserrat','serif';
+    color: #1f373d;
+}
+a {
+    text-decoration: none;
+    color: #1f373d;
+}
+
+/*header*/
+.header {
+    display: flex;
+    width: 1024px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 16px;
+}
+
+.header-logo {
+    font-size: 25px;
+    font-weight: 600px;
+    flex-grow: 1;
+}
